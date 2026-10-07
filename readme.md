@@ -9,7 +9,7 @@ A software system for managing healthcare appointments and maintaining patient m
 | Sairam Charan N | PES1UG24AM240 |
 | Sanket Shivaji R | PES1UG24AM251 |
 | Santosh M | PES1UG24AM252 |
-| Sumkh D Hegde | PES1UG24AM293 |
+| Sumukh D Hegde | PES1UG24AM293 |
 
 ## Versioning
 
